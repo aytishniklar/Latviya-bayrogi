@@ -1,0 +1,8 @@
+#latvia {
+  width: 300px;
+  height: 150px;
+  border: solid #9d2235;
+  border-width: 60px 0;
+  background: #fff; 
+  box-sizing: border-box;
+}
